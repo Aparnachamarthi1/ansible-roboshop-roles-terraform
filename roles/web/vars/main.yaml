@@ -1,0 +1,9 @@
+CATALOGUE_HOST: catalogue.chamarthiaparna.online
+USER_HOST: user.chamarthiaparna.online
+SHIPPING_HOST: shipping.chamarthiaparna.online
+CART_HOST: cart.chamarthiaparna.online
+PAYMENT_HOST: payment.chamarthiaparna.online
+MONGODB_HOST: mongodb.chamarthiaparna.online
+
+ 
+
